@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <hr><br>
 <ul>
-    <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice or relishing exotic foods:)</li><br>
+    <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice and/or relishing exotic foods 😋</li><br>
     <li> 🏢 University of South Florida, Go Bulls! 🐂</li><br>
-    <li> 🎓 Graduated, May 2024</li><br>
-    <li> 👨‍💻 I like to use Python for quick scripting, Java for robust applications, and C/C++ for high-performance tasks</b></li><br>
+    <li> 🎓 Graduated, May 2024 😇</li><br>
+    <li> 👨‍💻 I like to use Python for quick scripting, Java for robust applications, and C/C++ for high-performance tasks </b></li><br>
     <li> 🌐 Wanna know more of my work? :p Lets, connect on <a href="https://www.linkedin.com/in//">LinkedIn</a></li><br>
 </ul>
 <hr><br>

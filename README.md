@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <hr><br>
 <ul>
-    <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice or playing fifa:)</li><br>
+    <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice or exploring cuisines with friends:)</li><br>
     <li> 🏢 University of South Florida Grad, Go Bulls! 🐂</li><br>
     <li> 🎓 Graduated in May, 2024</li><br>
     <li> 👨‍💻 I like to use Python for quick scripting, Java for robust applications, and C/C++ for high-performance tasks</b></li><br>

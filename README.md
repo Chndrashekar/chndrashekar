@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Chndrashekar/chndrashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello.. Welcome to Chandrashekar's coding World!</h1>
+## Hello.. Welcome to Chandrashekar's coding World!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Fork+it%2C+Clone+it%2C+Code+it!)](https://git.io/typing-svg)
 

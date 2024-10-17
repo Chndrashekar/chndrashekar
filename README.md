@@ -28,6 +28,10 @@ Here are some ideas to get you started:
     <li> 🌐 Wanna know more of my work? :p Lets, connect on <a href="https://www.linkedin.com/in//">LinkedIn</a></li><br>
 </ul>
 <hr><br>
+## I also do leetcode when bored!
+<br>
+![Leetcode_edit](https://github.com/user-attachments/assets/bb70795e-2824-4b59-b7af-9a0123150b21)
+<hr><br>
 
 ## 💻 Technologies that I have worked
 <br>

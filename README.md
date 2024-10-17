@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Fork+it%2C+Clone+it%2C+Code+it!)](https://git.io/typing-svg)
 
+![Leetcode_Chandra](https://github.com/user-attachments/assets/a08a76cd-c2e4-4fc3-aa0a-2327dbce1424)
 <hr><br>
 <ul>
     <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice and/or relishing exotic foods 😋</li><br>
@@ -27,10 +28,6 @@ Here are some ideas to get you started:
     <li> 👨‍💻 I like to use Python for quick scripting, Java for robust applications, and C/C++ for high-performance tasks </b></li><br>
     <li> 🌐 Wanna know more of my work? :p Lets, connect on <a href="https://www.linkedin.com/in//">LinkedIn</a></li><br>
 </ul>
-<hr><br>
-## I also do leetcode when bored!
-<br>
-![Leetcode_edit](https://github.com/user-attachments/assets/bb70795e-2824-4b59-b7af-9a0123150b21)
 <hr><br>
 
 ## 💻 Technologies that I have worked

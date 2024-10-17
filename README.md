@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ## Hello.. Welcome to Chandrashekar's coding World!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Fork+it%2C+Clone+it%2C+Code+it!)](https://git.io/typing-svg)
-
+<!--
 ![Leetcode_Chandra](https://github.com/user-attachments/assets/a08a76cd-c2e4-4fc3-aa0a-2327dbce1424)
+-->
 <hr><br>
 <ul>
     <li> 🧩️ What am I doing now? Maybe tweeking a random kernel, building a microservice and/or relishing exotic foods 😋</li><br>

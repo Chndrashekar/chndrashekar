@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello.. Welcome to Chandrashekar's coding World!
+## Hello.. Welcome to Chandrashekar's repository!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Fork+it%2C+Clone+it%2C+Code+it!)](https://git.io/typing-svg)
 <!--
